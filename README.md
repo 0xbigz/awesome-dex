@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <strong>📈 A curated list of awesome things related to DEX (Decentralized EXchanges) 📈
+  <strong>📈 A curated list of awesome things related to DEXs (Decentralized EXchanges) 📈
 </strong>
   
   Please submit a pull request if you know any resources that might be helpful to other researchers/developers!
