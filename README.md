@@ -32,6 +32,7 @@
 - [Uniswap](https://app.uniswap.org/#/)
   - [calculator](https://uniswapv3.flipsidecrypto.com/)
   - [stats](https://info.uniswap.org/#/)
+  - [awesome-uniswapv3](https://github.com/GammaStrategies/awesome-uniswap-v3)
 - [Dydx](https://trade.dydx.exchange/trade)
   - [messari](https://messari.io/asset/dydx/metrics/all)
 - [Perp](https://perp.exchange/)
