@@ -24,7 +24,16 @@
 - [Ranked list (decentralized-exchange)](https://coinmarketcap.com/view/decentralized-exchange/)
 - [Ranked list (exchanges/dex)](https://coinmarketcap.com/rankings/exchanges/dex/)
 
-
+##### Database for DEXs
+##### - [Polybase](https://polybase.xyz) is a decentralized database for web3 with features like
+- Censorship resistance
+- End-to-end encryption
+- Self-sovereign data
+- Public Verifiability
+##### Polybase enables DEXs to
+- Implement high frequency trading
+- Transparency in their orderbooks
+- Attain web3 features at web2 cost
 
 
 ## Research
